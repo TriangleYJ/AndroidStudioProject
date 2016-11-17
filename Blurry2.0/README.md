@@ -15,5 +15,5 @@ Change Log
 > - 1.0.1 : Added RingBlurView.
 > 
 
-![1.0.1](http://i.imgur.com/k9oMmdV.gifv)
+![1.0.1](1.0.1.gif)
   [here]: https://github.com/mmin18/RealtimeBlurView
