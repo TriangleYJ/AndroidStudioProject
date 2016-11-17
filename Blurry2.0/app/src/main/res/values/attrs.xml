@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RingBlurView">
+        <attr name="ringBlurStrokeWidth" format="dimension"/>
+        <attr name="ringBlurObjectSize" format="dimension"/>
+        <attr name="ringBlurObjectColor" format="color"/>
+        <attr name="ringBlurText" format="string"/>
+        <attr name="ringBlurImg" format="integer"/>
+    </declare-styleable>
+</resources>
