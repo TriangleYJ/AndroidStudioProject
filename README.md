@@ -9,7 +9,7 @@ The Repository for my android project.
 ----------
 
 
-Mayor Projects
+Major Projects
 -------------
 
 
